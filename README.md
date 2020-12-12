@@ -1,7 +1,10 @@
-### Hi, this is Baodi. 
+### ✋Hi, this is Baodi. 
 
 I am a senior undergrduate student from Shandong University and I am looking for PhD positon in America or Asia.
 
+### ✨ _special_ ✨
+
+Nothing up to now.
 
 <!--
 **lwshanbd/lwshanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
