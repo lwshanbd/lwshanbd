@@ -2,9 +2,9 @@
 
 I am a senior undergrduate student from Shandong University and I am looking for PhD positon in America or Asia.
 
-### ✨ _special_ ✨
+### ✨ Contact ✨
 
-Nothing up to now.
+You can contact me by lwshanbd dot gmail dot com.
 
 <!--
 **lwshanbd/lwshanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
