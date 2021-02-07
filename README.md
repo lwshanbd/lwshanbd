@@ -6,6 +6,9 @@ I am a senior undergrduate student from Shandong University and I am looking for
 
 You can contact me by lwshanbd dot gmail dot com.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwshanbd)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **lwshanbd/lwshanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
