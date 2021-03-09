@@ -8,7 +8,7 @@ You can contact me by lwshanbd dot gmail dot com.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwshanbd&theme=jolly&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baodi)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
