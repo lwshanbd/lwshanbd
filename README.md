@@ -1,6 +1,6 @@
 ### ✋Hi, this is Baodi. 
 
-I am a incoming Ph.D student @ Stony Brook University.
+I am an incoming Ph.D student @ Stony Brook University.
 
 ### ✨ Contact ✨
 
