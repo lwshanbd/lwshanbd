@@ -1,6 +1,6 @@
 ### ✋Hi, this is Baodi. 
 
-I am a senior undergrduate student from Shandong University and I am looking for a PhD positon in America or Asia.
+I am a incoming Ph.D student @ Stony Brook University.
 
 ### ✨ Contact ✨
 
