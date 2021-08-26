@@ -1,6 +1,6 @@
 ### ✋Hi, this is Baodi. 
 
-I am an incoming Ph.D student @ Stony Brook University.
+I am a Ph.D student @ Stony Brook University and I am a research assistant at ![IACS(Insitiute for Advanced Computional Science)](https://iacs.stonybrook.edu/).
 
 ### ✨ Contact ✨
 
