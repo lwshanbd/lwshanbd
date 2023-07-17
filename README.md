@@ -12,7 +12,7 @@ sh           1 hr 36 mins    █▓░░░░░░░░░░░░░░░
 
 ### ✋Hi, this is Baodi. 
 
-I am a Ph.D student @ Stony Brook University and I am a research assistant at [IACS(Insitiute for Advanced Computional Science)](https://iacs.stonybrook.edu/).
+I am a Ph.D candidate @ Stony Brook University and I am a research assistant at [IACS(Insitiute for Advanced Computional Science)](https://iacs.stonybrook.edu/).
 
 ### ✨ Contact ✨
 
