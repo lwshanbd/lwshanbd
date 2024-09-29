@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+sh                 3 mins          ████████████████▓░░░░░░░░   67.28 %
+reStructuredText   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+LLVM               0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+TableGen           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+C++                0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
