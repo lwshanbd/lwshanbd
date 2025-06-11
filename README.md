@@ -1,9 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   37 mins         █████████████████░░░░░░░░   68.31 %
-C++     17 mins         ████████░░░░░░░░░░░░░░░░░   31.57 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
