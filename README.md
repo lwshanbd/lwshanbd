@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C            1 hr 52 mins    ███████▒░░░░░░░░░░░░░░░░░   29.08 %
+C++          1 hr 36 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
+Bash         1 hr 32 mins    ██████░░░░░░░░░░░░░░░░░░░   24.09 %
+Makefile     33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+CMake        31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
 ```
 
 <!--END_SECTION:waka-->
