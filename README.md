@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       8 mins          ███████████▓░░░░░░░░░░░░░   46.08 %
-CMake      3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-C++        2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-YAML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
